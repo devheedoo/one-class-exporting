@@ -4,6 +4,9 @@
   "description": "Test for exporting/importing a class with GitHub URL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": "https://github.com/devheedoo/one-class-exporting.git",
   "author": "Heedo Kim(Choco)",
   "license": "MIT",
