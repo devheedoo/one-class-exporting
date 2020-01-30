@@ -1,4 +1,4 @@
-class OneClassExporting {
+export class OneClassExporting {
   _property1: string = '';
   _property2: number = 0;
 
@@ -19,5 +19,3 @@ class OneClassExporting {
     return `${this._property1} ${this._property2}`
   }
 }
-
-export default OneClassExporting;
